@@ -1,0 +1,35 @@
+## Visual Studio & .NET Core Ignore Rules
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# NuGet packages folder
+*.nupkg
+packages/
+
+# Rider / JetBrains IDE
+.idea/
+
+## Node & Angular Ignore Rules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.angular/
+dist/
+tmp/
+out-tsc/
+.sass-cache/
+
+## Environment, Secrets & OS Files
+*.env
+*.env.local
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEjr0/9hMRg=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Programming\\Practica\\Knavo\\src\\backend\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
